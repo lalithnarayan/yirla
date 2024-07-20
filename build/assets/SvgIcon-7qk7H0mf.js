@@ -1,0 +1,1 @@
+import{r as o,j as t,d as c}from"./index-sFzf4xgK.js";const l=o.forwardRef((s,a)=>{const{children:e,className:r,...n}=s;return t.jsx("span",{ref:a,className:c("inline-flex",r),...n,children:e})});l.displayName="SvgIcon";export{l as S};

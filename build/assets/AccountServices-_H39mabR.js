@@ -1,0 +1,1 @@
+import{A as a}from"./index-sFzf4xgK.js";async function o(t){return a.fetchData({url:"/account/invoice",method:"get",params:t})}async function n(t){return a.fetchData({url:"/account/log",method:"post",data:t})}async function e(){return a.fetchData({url:"/account/form",method:"get"})}export{e as a,o as b,n as c};

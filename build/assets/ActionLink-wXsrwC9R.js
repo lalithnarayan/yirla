@@ -1,0 +1,1 @@
+import{d as u,j as r,L as h}from"./index-sFzf4xgK.js";import{u as x}from"./useThemeClass-f5W2U2ER.js";const j=a=>{const{children:s,className:m,themeColor:n=!0,to:e,reloadDocument:c,href:l="",...o}=a,{textTheme:i}=x(),t={className:u(n&&i,"hover:underline",m)};return e?r.jsx(h,{to:e,reloadDocument:c,...t,...o,children:s}):r.jsx("a",{href:l,...t,...o,children:s})};export{j as A};
